@@ -1,0 +1,571 @@
+--- Dataset Validation Report ---
+Generated on: 2025-07-25 16:06:12
+Root Directory: C:\Users\Pongo\OneDrive\Documents\~Cornel\~Ideas n Innovation\Project\25-6-00 --Onomatopoeia\Images
+
+========================================
+🔴 INVALID DIRECTORIES (Missing Pairs)
+========================================
+
+🎉 No invalid directories found! All pairs are valid.
+
+
+========================================
+✅ VALID DIRECTORIES
+========================================
+
+- Byur\Byur_a_26
+- Byur\Byur_a_27
+- Byur\Byur_a_28
+- Byur\Byur_a_29
+- Byur\Byur_a_30
+- Byur\Byur_a_31
+- Byur\Byur_a_32
+- Byur\Byur_a_33
+- Byur\Byur_a_34
+- Byur\Byur_a_35
+- Byur\Byur_a_36
+- Byur\Byur_a_37
+- Byur\Byur_a_38
+- Byur\Byur_b_39
+- Byur\Byur_b_40
+- Byur\Byur_b_41
+- Byur\Byur_b_42
+- Byur\Byur_b_43
+- Byur\Byur_b_44
+- Byur\Byur_b_45
+- Byur\Byur_b_46
+- Byur\Byur_b_47
+- Byur\Byur_b_48
+- Byur\Byur_b_49
+- Byur\Byur_b_50
+- Byur\Byur_b_51
+- Byur\Byur_b_52
+- Byur\Byur_b_53
+- Byur\Byur_b_54
+- Byur\Byur_b_55
+- Byur\Byur_b_56
+- Byur\Byur_b_57
+- Byur\Byur_b_58
+- Byur\Byur_b_59
+- Byur\Byur_b_60
+- Byur\Byur_b_61
+- Byur\Byur_b_63
+- Byur\Byur_b_64
+- Byur\Byur_b_65
+- Byur\Byur_b_66
+- Byur\Byur_b_67
+- Byur\Byur_c_68
+- Byur\Byur_c_69
+- Byur\Byur_c_70
+- Byur\Byur_c_71
+- Byur\Byur_c_72
+- Byur\Byur_c_73
+- Byur\Byur_c_74
+- Byur\Byur_c_75
+- Byur\Byur_c_76
+- Byur\Byur_c_77
+- Byur\Byur_c_78
+- Byur\Byur_c_79
+- Byur\Byur_c_80
+- Byur\Byur_c_81
+- Byur\Byur_c_82
+- Byur\Byur_c_85
+- Byur\Byur_c_86
+- Byur\Byur_c_87
+- Byur\Byur_c_88
+- Byur\Byur_c_89
+- Byur\Byur_c_90
+- Byur\Byur_c_91
+- Byur\Byur_c_92
+- Byur\Byur_c_93
+- Byur\Byur_c_94
+- Byur\Byur_c_95
+- Byur\Byur_c_96
+- Byur\Byur_d_100
+- Byur\Byur_d_101
+- Byur\Byur_d_102
+- Byur\Byur_d_103
+- Byur\Byur_d_104
+- Byur\Byur_d_105
+- Byur\Byur_d_106
+- Byur\Byur_d_107
+- Byur\Byur_d_108
+- Byur\Byur_d_109
+- Byur\Byur_d_110
+- Byur\Byur_d_111
+- Byur\Byur_d_112
+- Byur\Byur_d_113
+- Byur\Byur_d_114
+- Byur\Byur_d_115
+- Byur\Byur_d_116
+- Byur\Byur_d_117
+- Byur\Byur_d_118
+- Byur\Byur_d_119
+- Byur\Byur_d_120
+- Byur\Byur_d_121
+- Byur\Byur_d_122
+- Byur\Byur_d_98
+- Byur\Byur_d_99
+- Duuttt\Duuttt_a_26
+- Duuttt\Duuttt_a_27
+- Duuttt\Duuttt_a_28
+- Duuttt\Duuttt_a_29
+- Duuttt\Duuttt_a_30
+- Duuttt\Duuttt_a_31
+- Duuttt\Duuttt_a_32
+- Duuttt\Duuttt_a_33
+- Duuttt\Duuttt_a_34
+- Duuttt\Duuttt_a_35
+- Duuttt\Duuttt_a_36
+- Duuttt\Duuttt_a_37
+- Duuttt\Duuttt_a_38
+- Duuttt\Duuttt_b_39
+- Duuttt\Duuttt_b_40
+- Duuttt\Duuttt_b_41
+- Duuttt\Duuttt_b_42
+- Duuttt\Duuttt_b_43
+- Duuttt\Duuttt_b_44
+- Duuttt\Duuttt_b_45
+- Duuttt\Duuttt_b_51
+- Duuttt\Duuttt_b_52
+- Duuttt\Duuttt_b_53
+- Duuttt\Duuttt_b_55
+- Duuttt\Duuttt_b_56
+- Duuttt\Duuttt_b_58
+- Duuttt\Duuttt_b_59
+- Duuttt\Duuttt_b_60
+- Duuttt\Duuttt_b_61
+- Duuttt\Duuttt_b_62
+- Duuttt\Duuttt_b_63
+- Duuttt\Duuttt_b_64
+- Duuttt\Duuttt_b_65
+- Duuttt\Duuttt_b_66
+- Duuttt\Duuttt_b_67
+- Duuttt\Duuttt_c_68
+- Duuttt\Duuttt_c_69
+- Duuttt\Duuttt_c_70
+- Duuttt\Duuttt_c_71
+- Duuttt\Duuttt_c_72
+- Duuttt\Duuttt_c_73
+- Duuttt\Duuttt_c_74
+- Duuttt\Duuttt_c_75
+- Duuttt\Duuttt_c_76
+- Duuttt\Duuttt_c_77
+- Duuttt\Duuttt_c_78
+- Duuttt\Duuttt_c_79
+- Duuttt\Duuttt_c_80
+- Duuttt\Duuttt_c_81
+- Duuttt\Duuttt_c_82
+- Duuttt\Duuttt_c_85
+- Duuttt\Duuttt_c_86
+- Duuttt\Duuttt_c_87
+- Duuttt\Duuttt_c_88
+- Duuttt\Duuttt_c_89
+- Duuttt\Duuttt_c_90
+- Duuttt\Duuttt_c_91
+- Duuttt\Duuttt_c_92
+- Duuttt\Duuttt_c_93
+- Duuttt\Duuttt_c_94
+- Duuttt\Duuttt_c_95
+- Duuttt\Duuttt_c_96
+- Duuttt\Duuttt_d_100
+- Duuttt\Duuttt_d_101
+- Duuttt\Duuttt_d_102
+- Duuttt\Duuttt_d_103
+- Duuttt\Duuttt_d_104
+- Duuttt\Duuttt_d_105
+- Duuttt\Duuttt_d_106
+- Duuttt\Duuttt_d_107
+- Duuttt\Duuttt_d_108
+- Duuttt\Duuttt_d_109
+- Duuttt\Duuttt_d_110
+- Duuttt\Duuttt_d_111
+- Duuttt\Duuttt_d_112
+- Duuttt\Duuttt_d_113
+- Duuttt\Duuttt_d_114
+- Duuttt\Duuttt_d_115
+- Duuttt\Duuttt_d_116
+- Duuttt\Duuttt_d_117
+- Duuttt\Duuttt_d_118
+- Duuttt\Duuttt_d_119
+- Duuttt\Duuttt_d_120
+- Duuttt\Duuttt_d_121
+- Duuttt\Duuttt_d_122
+- Duuttt\Duuttt_d_98
+- Duuttt\Duuttt_d_99
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_26
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_27
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_28
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_29
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_30
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_31
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_32
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_33
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_34
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_35
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_36
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_37
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_a_38
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_39
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_40
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_41
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_42
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_43
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_44
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_45
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_46
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_47
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_48
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_49
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_50
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_51
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_52
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_53
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_54
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_55
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_56
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_57
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_58
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_59
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_60
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_61
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_62
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_63
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_64
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_65
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_66
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_b_67
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_68
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_69
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_70
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_71
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_72
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_73
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_74
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_75
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_76
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_77
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_78
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_79
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_80
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_81
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_82
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_85
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_86
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_87
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_88
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_89
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_90
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_91
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_92
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_93
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_94
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_95
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_c_96
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_100
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_101
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_102
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_103
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_104
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_105
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_106
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_107
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_108
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_109
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_110
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_111
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_112
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_113
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_114
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_115
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_116
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_117
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_118
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_119
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_120
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_121
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_122
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_98
+- Gluduk Gluduk Gluduk\Gluduk Gluduk Gluduk_d_99
+- Gonggg\Gonggg_a_26
+- Gonggg\Gonggg_a_27
+- Gonggg\Gonggg_a_28
+- Gonggg\Gonggg_a_29
+- Gonggg\Gonggg_a_30
+- Gonggg\Gonggg_a_31
+- Gonggg\Gonggg_a_32
+- Gonggg\Gonggg_a_33
+- Gonggg\Gonggg_a_34
+- Gonggg\Gonggg_a_35
+- Gonggg\Gonggg_a_36
+- Gonggg\Gonggg_a_37
+- Gonggg\Gonggg_a_38
+- Gonggg\Gonggg_b_39
+- Gonggg\Gonggg_b_40
+- Gonggg\Gonggg_b_41
+- Gonggg\Gonggg_b_42
+- Gonggg\Gonggg_b_43
+- Gonggg\Gonggg_b_44
+- Gonggg\Gonggg_b_45
+- Gonggg\Gonggg_b_46
+- Gonggg\Gonggg_b_47
+- Gonggg\Gonggg_b_48
+- Gonggg\Gonggg_b_49
+- Gonggg\Gonggg_b_50
+- Gonggg\Gonggg_b_51
+- Gonggg\Gonggg_b_52
+- Gonggg\Gonggg_b_53
+- Gonggg\Gonggg_b_54
+- Gonggg\Gonggg_b_55
+- Gonggg\Gonggg_b_56
+- Gonggg\Gonggg_b_57
+- Gonggg\Gonggg_b_58
+- Gonggg\Gonggg_b_59
+- Gonggg\Gonggg_b_60
+- Gonggg\Gonggg_b_61
+- Gonggg\Gonggg_b_62
+- Gonggg\Gonggg_b_63
+- Gonggg\Gonggg_b_64
+- Gonggg\Gonggg_b_65
+- Gonggg\Gonggg_b_66
+- Gonggg\Gonggg_b_67
+- Gonggg\Gonggg_c_68
+- Gonggg\Gonggg_c_69
+- Gonggg\Gonggg_c_70
+- Gonggg\Gonggg_c_71
+- Gonggg\Gonggg_c_72
+- Gonggg\Gonggg_c_73
+- Gonggg\Gonggg_c_74
+- Gonggg\Gonggg_c_75
+- Gonggg\Gonggg_c_76
+- Gonggg\Gonggg_c_77
+- Gonggg\Gonggg_c_78
+- Gonggg\Gonggg_c_79
+- Gonggg\Gonggg_c_80
+- Gonggg\Gonggg_c_81
+- Gonggg\Gonggg_c_82
+- Gonggg\Gonggg_c_85
+- Gonggg\Gonggg_c_86
+- Gonggg\Gonggg_c_87
+- Gonggg\Gonggg_c_88
+- Gonggg\Gonggg_c_89
+- Gonggg\Gonggg_c_90
+- Gonggg\Gonggg_c_91
+- Gonggg\Gonggg_c_92
+- Gonggg\Gonggg_c_93
+- Gonggg\Gonggg_c_94
+- Gonggg\Gonggg_c_95
+- Gonggg\Gonggg_c_96
+- Gonggg\Gonggg_d_100
+- Gonggg\Gonggg_d_101
+- Gonggg\Gonggg_d_102
+- Gonggg\Gonggg_d_103
+- Gonggg\Gonggg_d_104
+- Gonggg\Gonggg_d_105
+- Gonggg\Gonggg_d_106
+- Gonggg\Gonggg_d_107
+- Gonggg\Gonggg_d_108
+- Gonggg\Gonggg_d_109
+- Gonggg\Gonggg_d_110
+- Gonggg\Gonggg_d_111
+- Gonggg\Gonggg_d_112
+- Gonggg\Gonggg_d_113
+- Gonggg\Gonggg_d_114
+- Gonggg\Gonggg_d_115
+- Gonggg\Gonggg_d_116
+- Gonggg\Gonggg_d_117
+- Gonggg\Gonggg_d_118
+- Gonggg\Gonggg_d_119
+- Gonggg\Gonggg_d_120
+- Gonggg\Gonggg_d_121
+- Gonggg\Gonggg_d_122
+- Gonggg\Gonggg_d_98
+- Gonggg\Gonggg_d_99
+- Thing\Thing_a_26
+- Thing\Thing_a_27
+- Thing\Thing_a_28
+- Thing\Thing_a_29
+- Thing\Thing_a_30
+- Thing\Thing_a_31
+- Thing\Thing_a_32
+- Thing\Thing_a_33
+- Thing\Thing_a_34
+- Thing\Thing_a_35
+- Thing\Thing_a_36
+- Thing\Thing_a_37
+- Thing\Thing_a_38
+- Thing\Thing_b_39
+- Thing\Thing_b_40
+- Thing\Thing_b_41
+- Thing\Thing_b_42
+- Thing\Thing_b_43
+- Thing\Thing_b_44
+- Thing\Thing_b_45
+- Thing\Thing_b_46
+- Thing\Thing_b_47
+- Thing\Thing_b_48
+- Thing\Thing_b_49
+- Thing\Thing_b_50
+- Thing\Thing_b_51
+- Thing\Thing_b_52
+- Thing\Thing_b_53
+- Thing\Thing_b_54
+- Thing\Thing_b_55
+- Thing\Thing_b_56
+- Thing\Thing_b_57
+- Thing\Thing_b_58
+- Thing\Thing_b_59
+- Thing\Thing_b_60
+- Thing\Thing_b_61
+- Thing\Thing_b_62
+- Thing\Thing_b_63
+- Thing\Thing_b_64
+- Thing\Thing_b_65
+- Thing\Thing_b_66
+- Thing\Thing_b_67
+- Thing\Thing_c_68
+- Thing\Thing_c_69
+- Thing\Thing_c_70
+- Thing\Thing_c_71
+- Thing\Thing_c_72
+- Thing\Thing_c_73
+- Thing\Thing_c_74
+- Thing\Thing_c_75
+- Thing\Thing_c_76
+- Thing\Thing_c_77
+- Thing\Thing_c_78
+- Thing\Thing_c_79
+- Thing\Thing_c_80
+- Thing\Thing_c_81
+- Thing\Thing_c_82
+- Thing\Thing_c_85
+- Thing\Thing_c_86
+- Thing\Thing_c_87
+- Thing\Thing_c_88
+- Thing\Thing_c_89
+- Thing\Thing_c_90
+- Thing\Thing_c_91
+- Thing\Thing_c_92
+- Thing\Thing_c_93
+- Thing\Thing_c_94
+- Thing\Thing_c_95
+- Thing\Thing_c_96
+- Thing\Thing_d_100
+- Thing\Thing_d_101
+- Thing\Thing_d_102
+- Thing\Thing_d_103
+- Thing\Thing_d_104
+- Thing\Thing_d_105
+- Thing\Thing_d_106
+- Thing\Thing_d_107
+- Thing\Thing_d_108
+- Thing\Thing_d_109
+- Thing\Thing_d_110
+- Thing\Thing_d_111
+- Thing\Thing_d_112
+- Thing\Thing_d_113
+- Thing\Thing_d_114
+- Thing\Thing_d_115
+- Thing\Thing_d_116
+- Thing\Thing_d_117
+- Thing\Thing_d_118
+- Thing\Thing_d_119
+- Thing\Thing_d_120
+- Thing\Thing_d_121
+- Thing\Thing_d_122
+- Thing\Thing_d_98
+- Thing\Thing_d_99
+- Tok Tok Tok\Tok Tok Tok_a_26
+- Tok Tok Tok\Tok Tok Tok_a_27
+- Tok Tok Tok\Tok Tok Tok_a_28
+- Tok Tok Tok\Tok Tok Tok_a_29
+- Tok Tok Tok\Tok Tok Tok_a_30
+- Tok Tok Tok\Tok Tok Tok_a_31
+- Tok Tok Tok\Tok Tok Tok_a_32
+- Tok Tok Tok\Tok Tok Tok_a_33
+- Tok Tok Tok\Tok Tok Tok_a_34
+- Tok Tok Tok\Tok Tok Tok_a_35
+- Tok Tok Tok\Tok Tok Tok_a_36
+- Tok Tok Tok\Tok Tok Tok_a_37
+- Tok Tok Tok\Tok Tok Tok_a_38
+- Tok Tok Tok\Tok Tok Tok_b_39
+- Tok Tok Tok\Tok Tok Tok_b_40
+- Tok Tok Tok\Tok Tok Tok_b_41
+- Tok Tok Tok\Tok Tok Tok_b_42
+- Tok Tok Tok\Tok Tok Tok_b_43
+- Tok Tok Tok\Tok Tok Tok_b_44
+- Tok Tok Tok\Tok Tok Tok_b_45
+- Tok Tok Tok\Tok Tok Tok_b_46
+- Tok Tok Tok\Tok Tok Tok_b_47
+- Tok Tok Tok\Tok Tok Tok_b_48
+- Tok Tok Tok\Tok Tok Tok_b_49
+- Tok Tok Tok\Tok Tok Tok_b_50
+- Tok Tok Tok\Tok Tok Tok_b_51
+- Tok Tok Tok\Tok Tok Tok_b_52
+- Tok Tok Tok\Tok Tok Tok_b_53
+- Tok Tok Tok\Tok Tok Tok_b_54
+- Tok Tok Tok\Tok Tok Tok_b_55
+- Tok Tok Tok\Tok Tok Tok_b_56
+- Tok Tok Tok\Tok Tok Tok_b_57
+- Tok Tok Tok\Tok Tok Tok_b_58
+- Tok Tok Tok\Tok Tok Tok_b_59
+- Tok Tok Tok\Tok Tok Tok_b_60
+- Tok Tok Tok\Tok Tok Tok_b_61
+- Tok Tok Tok\Tok Tok Tok_b_62
+- Tok Tok Tok\Tok Tok Tok_b_63
+- Tok Tok Tok\Tok Tok Tok_b_64
+- Tok Tok Tok\Tok Tok Tok_b_65
+- Tok Tok Tok\Tok Tok Tok_b_66
+- Tok Tok Tok\Tok Tok Tok_b_67
+- Tok Tok Tok\Tok Tok Tok_c_68
+- Tok Tok Tok\Tok Tok Tok_c_69
+- Tok Tok Tok\Tok Tok Tok_c_70
+- Tok Tok Tok\Tok Tok Tok_c_71
+- Tok Tok Tok\Tok Tok Tok_c_72
+- Tok Tok Tok\Tok Tok Tok_c_73
+- Tok Tok Tok\Tok Tok Tok_c_74
+- Tok Tok Tok\Tok Tok Tok_c_75
+- Tok Tok Tok\Tok Tok Tok_c_76
+- Tok Tok Tok\Tok Tok Tok_c_77
+- Tok Tok Tok\Tok Tok Tok_c_78
+- Tok Tok Tok\Tok Tok Tok_c_79
+- Tok Tok Tok\Tok Tok Tok_c_80
+- Tok Tok Tok\Tok Tok Tok_c_81
+- Tok Tok Tok\Tok Tok Tok_c_82
+- Tok Tok Tok\Tok Tok Tok_c_85
+- Tok Tok Tok\Tok Tok Tok_c_86
+- Tok Tok Tok\Tok Tok Tok_c_87
+- Tok Tok Tok\Tok Tok Tok_c_88
+- Tok Tok Tok\Tok Tok Tok_c_89
+- Tok Tok Tok\Tok Tok Tok_c_90
+- Tok Tok Tok\Tok Tok Tok_c_91
+- Tok Tok Tok\Tok Tok Tok_c_92
+- Tok Tok Tok\Tok Tok Tok_c_93
+- Tok Tok Tok\Tok Tok Tok_c_94
+- Tok Tok Tok\Tok Tok Tok_c_95
+- Tok Tok Tok\Tok Tok Tok_c_96
+- Tok Tok Tok\Tok Tok Tok_d_100
+- Tok Tok Tok\Tok Tok Tok_d_101
+- Tok Tok Tok\Tok Tok Tok_d_102
+- Tok Tok Tok\Tok Tok Tok_d_103
+- Tok Tok Tok\Tok Tok Tok_d_104
+- Tok Tok Tok\Tok Tok Tok_d_105
+- Tok Tok Tok\Tok Tok Tok_d_106
+- Tok Tok Tok\Tok Tok Tok_d_107
+- Tok Tok Tok\Tok Tok Tok_d_108
+- Tok Tok Tok\Tok Tok Tok_d_109
+- Tok Tok Tok\Tok Tok Tok_d_110
+- Tok Tok Tok\Tok Tok Tok_d_111
+- Tok Tok Tok\Tok Tok Tok_d_112
+- Tok Tok Tok\Tok Tok Tok_d_113
+- Tok Tok Tok\Tok Tok Tok_d_114
+- Tok Tok Tok\Tok Tok Tok_d_115
+- Tok Tok Tok\Tok Tok Tok_d_116
+- Tok Tok Tok\Tok Tok Tok_d_117
+- Tok Tok Tok\Tok Tok Tok_d_118
+- Tok Tok Tok\Tok Tok Tok_d_119
+- Tok Tok Tok\Tok Tok Tok_d_120
+- Tok Tok Tok\Tok Tok Tok_d_121
+- Tok Tok Tok\Tok Tok Tok_d_122
+- Tok Tok Tok\Tok Tok Tok_d_98
+- Tok Tok Tok\Tok Tok Tok_d_99
