@@ -1,0 +1,21 @@
+Byur
+A dynamic comic book onomatopoeia speech bubble with the text "Byur". The bubble is shaped like a dramatic water splash, with vibrant blues and whites. Surrounded by splashing liquid droplets and motion lines. Pop art style, bold outlines, sharp focus, masterpiece, 4k, high detail.
+
+Duuttt
+A comical onomatopoeia puff of smoke with the text "Duuttt". The bubble is shaped like a billowing cloud, in shades of brown and murky green. Wavy motion lines indicating a funny smell. Graphic novel art, bold colors, cinematic lighting, masterpiece, high detail.
+
+Gluduk Gluduk Gluduk 
+A powerful onomatopoeia sound effect with the text "Gluduk Gluduk Gluduk". The bubble is jagged and cracked like a lightning strike, with a glowing yellow and electric purple aura against a dark background. Surrounded by small lightning sparks. Epic comic art, dynamic, sharp focus, masterpiece, 4k.
+
+Gonggg
+A majestic onomatopoeia bubble with the text "Gonggg". The bubble is circular and metallic, with a brilliant gold and bronze texture that shines. Concentric sound rings vibrate outwards from the bubble. Bold, clean lines, cinematic lighting, masterpiece, high detail.
+
+Ting
+A delicate and clean onomatopoeia speech bubble with the text "Ting". The bubble is small and crisp, with a sparkling silver and white sheen. Small starbursts and glittery particles surround it, indicating a magical chime. Pop art style, sharp focus, high detail, masterpiece.
+
+Tok Tok Tok 
+A classic comic art onomatopoeia bubble with the text "Tok Tok Tok". The bubble has a hard, solid edge with a wood grain texture, in shades of brown and beige. Impact lines radiate outwards from the text. Bold outlines, graphic novel style, masterpiece, 4k, high detail.
+
+Negative Prompt
+deformed, disfigured, blurry, low resolution, worst quality, jpeg artifacts, ugly, text artifact, signature, watermark
+
