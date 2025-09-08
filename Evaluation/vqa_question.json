@@ -2,7 +2,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -10,7 +10,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -18,7 +18,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -26,7 +26,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -34,7 +34,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -42,7 +42,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -50,7 +50,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -58,7 +58,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -66,7 +66,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -74,7 +74,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Byur_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -82,7 +82,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -90,7 +90,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -98,7 +98,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -106,7 +106,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -114,7 +114,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -122,7 +122,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -130,7 +130,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -138,7 +138,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -146,7 +146,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -154,7 +154,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Dutt_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -162,7 +162,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -170,7 +170,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -178,7 +178,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -186,7 +186,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -194,7 +194,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -202,7 +202,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -210,7 +210,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -218,7 +218,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -226,7 +226,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -234,7 +234,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gluduk_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -242,87 +242,87 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Gong_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -330,7 +330,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -338,7 +338,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -346,7 +346,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -354,7 +354,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -362,7 +362,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -370,7 +370,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -378,7 +378,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -386,7 +386,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -394,7 +394,7 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/Ting_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -402,87 +402,87 @@
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp1_sd15_2050/TokTok_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -490,7 +490,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -498,7 +498,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -506,7 +506,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -514,7 +514,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -522,7 +522,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -530,7 +530,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -538,7 +538,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -546,7 +546,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -554,7 +554,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Byur_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -562,7 +562,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -570,7 +570,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -578,7 +578,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -586,7 +586,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -594,7 +594,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -602,7 +602,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -610,7 +610,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -618,7 +618,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -626,7 +626,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -634,7 +634,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Dutt_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -642,7 +642,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -650,7 +650,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -658,7 +658,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -666,7 +666,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -674,7 +674,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -682,7 +682,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -690,7 +690,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -698,7 +698,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -706,7 +706,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -714,7 +714,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gluduk_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -722,87 +722,87 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Gong_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -810,7 +810,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -818,7 +818,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -826,7 +826,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -834,7 +834,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -842,7 +842,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -850,7 +850,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -858,7 +858,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -866,7 +866,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -874,7 +874,7 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/Ting_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -882,87 +882,87 @@
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp2_sd15_3050/TokTok_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -970,7 +970,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -978,7 +978,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -986,7 +986,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -994,7 +994,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1002,7 +1002,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1010,7 +1010,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1018,7 +1018,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1026,7 +1026,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1034,7 +1034,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Byur_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1042,7 +1042,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1050,7 +1050,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1058,7 +1058,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1066,7 +1066,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1074,7 +1074,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1082,7 +1082,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1090,7 +1090,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1098,7 +1098,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1106,7 +1106,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1114,7 +1114,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Duttt_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1122,7 +1122,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1130,7 +1130,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1138,7 +1138,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1146,7 +1146,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1154,7 +1154,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1162,7 +1162,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1170,7 +1170,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1178,7 +1178,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1186,7 +1186,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1194,7 +1194,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gluduk_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1202,87 +1202,87 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Gongg_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1290,7 +1290,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1298,7 +1298,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1306,7 +1306,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1314,7 +1314,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1322,7 +1322,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1330,7 +1330,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1338,7 +1338,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1346,7 +1346,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1354,7 +1354,7 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/Ting_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1362,87 +1362,87 @@
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp3_sd15_3050_v2/TokTok_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1450,7 +1450,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1458,7 +1458,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1466,7 +1466,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1474,7 +1474,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1482,7 +1482,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1490,7 +1490,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1498,7 +1498,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1506,7 +1506,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1514,7 +1514,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Byur_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1522,7 +1522,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1530,7 +1530,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1538,7 +1538,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1546,7 +1546,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1554,7 +1554,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1562,7 +1562,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1570,7 +1570,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1578,7 +1578,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1586,7 +1586,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1594,7 +1594,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Dutt_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -1602,7 +1602,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1610,7 +1610,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1618,7 +1618,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1626,7 +1626,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1634,7 +1634,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1642,7 +1642,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1650,7 +1650,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1658,7 +1658,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1666,7 +1666,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1674,7 +1674,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gluduk_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -1682,87 +1682,87 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Gong_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1770,7 +1770,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1778,7 +1778,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1786,7 +1786,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1794,7 +1794,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1802,7 +1802,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1810,7 +1810,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1818,7 +1818,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1826,7 +1826,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1834,7 +1834,7 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/Ting_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -1842,87 +1842,87 @@
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp4_sd15_3050_v3/TokTok_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1930,7 +1930,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1938,7 +1938,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1946,7 +1946,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1954,7 +1954,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1962,7 +1962,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1970,7 +1970,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1978,7 +1978,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1986,7 +1986,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -1994,7 +1994,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Byur_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What are the dominant colors of the water splash?"
     ]
@@ -2002,7 +2002,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2010,7 +2010,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2018,7 +2018,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2026,7 +2026,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2034,7 +2034,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2042,7 +2042,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2050,7 +2050,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2058,7 +2058,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2066,7 +2066,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2074,7 +2074,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Duttt_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
       "What color is the puff of smoke?"
     ]
@@ -2082,7 +2082,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2090,7 +2090,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2098,7 +2098,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2106,7 +2106,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2114,7 +2114,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2122,7 +2122,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2130,7 +2130,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2138,7 +2138,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2146,7 +2146,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2154,7 +2154,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gluduk_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written inside the visual effect?",
       "What natural phenomenon does the onomatopoeia's shape resemble?"
     ]
@@ -2162,87 +2162,87 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Gongg_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is read in the image?",
-      "What is the texture of the onomatopoeia bubble?"
+      "What is the texture of the bubble?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2250,7 +2250,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2258,7 +2258,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2266,7 +2266,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2274,7 +2274,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2282,7 +2282,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2290,7 +2290,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2298,7 +2298,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2306,7 +2306,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2314,7 +2314,7 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/Ting_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
       "What visual effect accompanies the text 'Ting'?"
     ]
@@ -2322,81 +2322,81 @@
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00001_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00002_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00003_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00004_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00005_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00006_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00007_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00008_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00009_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   },
   {
     "image": "dataset_eval/exp5_sdxl_a6000/TokTok_00010_.png",
     "questions": [
-      "Does the image contain onomatopoeia text?",
+      "Does the image contain text?",
       "What text is written in the image?",
-      "What material does the onomatopoeia bubble seem to be made of?"
+      "What material does the bubble seem to be made of?"
     ]
   }
 ]
