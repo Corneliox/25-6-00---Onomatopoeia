@@ -2,6 +2,7 @@
 /journal
 /wrong
 /Evaluation/dataset_eval/
+/Evaluation/Output/
 *.zip
 /Ver/V1
 /Ver/V2
